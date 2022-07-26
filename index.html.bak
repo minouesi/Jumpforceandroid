@@ -103,7 +103,7 @@
                                         <div class="app-name">Cyber Punk 2077</div>
                                         <p class="app-version" style="font-size: 10px">ANDROID And IOS</p>
                                     </div>
-                                    <a href="#" onclick="install('70nHVb3.jpg', 'Cyber Punk 2077','/2668503')" class="btn btn-success btn-xs btn-install">
+                                    <a href="#" onclick="install('70nHVb3.png', 'Cyber Punk 2077','/2668503')" class="btn btn-success btn-xs btn-install">
                                         <span class="install-btn-text"><b>INSTALL نثبيت</b></span>
                                     </a>
                                     <div class="clearfix"></div>
